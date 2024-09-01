@@ -131,14 +131,14 @@ export const TIER_CONFIGS: Readonly<Record<Tier, TierConfig>> = {
                     225480,
                     225481,
                 ],
-            }
+            },
             {
                 label: 'Cooking',
                 id: [
                     227281,
                     227283,
                 ],
-            }
+            },
         ],
     },
 
